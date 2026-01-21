@@ -72,3 +72,6 @@ These improvements were identified but not implemented in this iteration.
 2. Download the dataset and place it in the `data/` directory.
 3. Run the training and evaluation notebooks in order.
 
+
+## Background
+This project was originally developed as part of advanced coursework
